@@ -1,0 +1,11 @@
+{
+  "name": "jsonrpc-http-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/jsonrpc-http-client.js",
+  "scripts": {
+    "test": "node ./demo/demo.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
